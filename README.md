@@ -5,9 +5,10 @@ A mobile-first web app that shows your current UV index, personalised sun exposu
 Created in collaboration with [Sandra Löfgren
 ](https://github.com/sanlof) and [Claude](https://github.com/claude) using a photo of a pen and paper sketch and a simple prompt to get started.
 
-<img width="600" height="800" alt="IMG_1373" src="https://github.com/user-attachments/assets/4804f487-e6c8-4f0f-ba00-a042337458e2" />
-
 The UI is in Swedish. No build step — open `index.html` in a browser or serve it with any static file server.
+
+How it all started: ⬇️
+<img width="300" height="400" alt="IMG_1373" src="https://github.com/user-attachments/assets/4804f487-e6c8-4f0f-ba00-a042337458e2" />
 
 ## Features
 
