@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Large binary/camera files
+*.HEIC
+*.heic
+*.JPEG
+*.jpeg
+*.jpg
+*.png
+*.gif
+*.mp4
+*.mov
+
+# Environment / secrets
+.env
+.env.*
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Node (if a build step is added later)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+dist/
