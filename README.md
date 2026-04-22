@@ -18,7 +18,7 @@ The UI is in Swedish. No build step — open `index.html` in a browser or serve 
 - **Burn time estimates** for direct sun, partial shade, and full shade
 - **Hourly chart** (Chart.js) with peak UV annotation and a "now" marker
 - **Automatic location** via the browser Geolocation API, with reverse geocoding through Nominatim/OpenStreetMap
-- Falls back to Stockholm if geolocation is denied or unavailable
+- Falls back to Gothenburg, Sweden if geolocation is denied or unavailable
 
 ## Usage
 
