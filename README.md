@@ -8,10 +8,10 @@ Created in collaboration with [Sandra Löfgren
 The UI is in Swedish. No build step — open `index.html` in a browser or serve it with any static file server.
 
 How it started:
-<img width="48%" height="400" alt="IMG_1373" src="https://github.com/user-attachments/assets/4804f487-e6c8-4f0f-ba00-a042337458e2" />
+<img width="48%" alt="Orignal sketch" src="https://github.com/user-attachments/assets/4804f487-e6c8-4f0f-ba00-a042337458e2" />
 
 How it's going:
-<img width="48%" height="674" alt="Screenshot 2026-04-22 at 14 19 29" src="https://github.com/user-attachments/assets/8df0d79f-a083-433a-a504-74c7c264c71a" />
+<img width="48%" alt="Screenshot of live site" src="https://github.com/user-attachments/assets/8df0d79f-a083-433a-a504-74c7c264c71a" />
 
 ## Features
 
