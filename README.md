@@ -9,7 +9,7 @@ The UI is in Swedish. No build step — open `index.html` in a browser or serve 
 
 | How it started | How it's going |
 |---|---|
-| ![Sketch](https://github.com/user-attachments/assets/4804f487-e6c8-4f0f-ba00-a042337458e2) | ![Screenshot](https://github.com/user-attachments/assets/8df0d79f-a083-433a-a504-74c7c264c71a) |
+| <img width="400" src="https://github.com/user-attachments/assets/4804f487-e6c8-4f0f-ba00-a042337458e2" /> | <img width="400" src="https://github.com/user-attachments/assets/8df0d79f-a083-433a-a504-74c7c264c71a" /> |
 
 ## Features
 
