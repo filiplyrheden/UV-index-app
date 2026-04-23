@@ -7,6 +7,10 @@ Created in collaboration with [Sandra Löfgren
 
 The UI is in Swedish. No build step — open `index.html` in a browser or serve it with any static file server.
 
+| How it started | How it's going |
+|---|---|
+| <img width="400" src="https://github.com/user-attachments/assets/4804f487-e6c8-4f0f-ba00-a042337458e2" /> | <img width="400" src="https://github.com/user-attachments/assets/8df0d79f-a083-433a-a504-74c7c264c71a" /> |
+
 ## Features
 
 - **Current UV index** with an animated ring indicator and colour-coded severity levels (Low → Extreme)
@@ -14,7 +18,7 @@ The UI is in Swedish. No build step — open `index.html` in a browser or serve 
 - **Burn time estimates** for direct sun, partial shade, and full shade
 - **Hourly chart** (Chart.js) with peak UV annotation and a "now" marker
 - **Automatic location** via the browser Geolocation API, with reverse geocoding through Nominatim/OpenStreetMap
-- Falls back to Stockholm if geolocation is denied or unavailable
+- Falls back to Gothenburg, Sweden if geolocation is denied or unavailable
 
 ## Usage
 

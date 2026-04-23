@@ -335,9 +335,9 @@ function init() {
   updateUVCircle(0);
 
   if (!navigator.geolocation) {
-    showError("Din webbläsare stöder inte geolokalisering. Visar Stockholm.");
-    document.getElementById("location-text").textContent = "Stockholm, Sverige";
-    loadData(59.3293, 18.0686);
+    showError("Din webbläsare stöder inte geolokalisering. Visar Göteborg.");
+    document.getElementById("location-text").textContent = "Göteborg, Sverige";
+    loadData(57.7072326, 11.9670171);
     return;
   }
 
@@ -348,10 +348,10 @@ function init() {
       loadData(lat, lon);
     },
     () => {
-      showError("Platsåtkomst nekades. Visar Stockholm som standardplats.");
+      showError("Platsåtkomst nekades. Visar Göteborg som standardplats.");
       document.getElementById("location-text").textContent =
-        "Stockholm, Sverige";
-      loadData(59.3293, 18.0686);
+        "Göteborg, Sverige";
+      loadData(57.7072326, 11.9670171);
     },
     { timeout: 8000 },
   );
