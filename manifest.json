@@ -1,0 +1,24 @@
+{
+  "name": "UV-Index",
+  "short_name": "UV-Index",
+  "description": "Se aktuellt UV-index och säker soltid för din hudtyp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9ca24",
+  "theme_color": "#f0932b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
