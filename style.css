@@ -19,6 +19,7 @@ body {
   max-width: 430px;
   margin: 0 auto;
   padding: 20px 16px 32px;
+  padding-top: calc(20px + env(safe-area-inset-top));
   display: flex;
   flex-direction: column;
   gap: 14px;
@@ -309,6 +310,32 @@ body {
   font-size: 15px;
   color: #888;
   font-weight: 500;
+}
+
+/* ── Refresh button ── */
+.refresh-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+  padding: 14px;
+  background: white;
+  border: none;
+  border-radius: 22px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #f0932b;
+  cursor: pointer;
+  box-shadow: 0 2px 14px rgba(0, 0, 0, 0.06);
+  transition: opacity 0.18s, transform 0.18s;
+}
+.refresh-btn:active {
+  opacity: 0.7;
+  transform: scale(0.97);
+}
+.refresh-btn svg {
+  flex-shrink: 0;
 }
 
 /* ── Error banner ── */
